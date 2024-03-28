@@ -1,3 +1,3 @@
 module.exports = {
-    url : "mongodb://localhost:27017/assignment4"
+    url : "mongodb+srv://deep-adin:admin@deeplad.lhjutto.mongodb.net/assignment4?retryWrites=true&w=majority&appName=DeepLad"
 };
